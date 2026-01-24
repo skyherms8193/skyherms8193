@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Skylar!
 - 👀 I’m interested in all the new things to learn.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to work as a vet tech.
 
