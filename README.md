@@ -13,6 +13,7 @@ I’m transitioning into more technical roles within AI and software development
 
 ### 🧠 Practice & Growth
 - Problem-solving practice on [Codewars](https://www.codewars.com/users/sherms107) (Python focus)
+- Studying for PCEP (Python Certified Entry-Level Programmer)
 
 ### 📊 Codewars Progress
 - Rank: 6 kyu  
